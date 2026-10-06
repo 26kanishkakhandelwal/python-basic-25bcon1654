@@ -1,51 +1,27 @@
-# Prompt Engineering Assignment
+# 🐍 Python Basics
 
-## Overview
+> A collection of Python programs and practical exercises created while learning the fundamentals of programming.
 
-This repository is part of an assignment for the **Prompt Engineering** class. It contains basic Python programs and demonstrates the use of an LLM for reviewing and improving repository documentation.
+Welcome to my **Python Basics** repository.
 
-## Development Stages
+This repository contains my Python practice work, exercises, and programs created while building a strong foundation in Python programming and problem solving.
 
-### Stage 1 — Factorial Program
+---
 
-Added a basic **Factorial program in Python** using `factorial.py`.
+## 👩‍💻 About Me
 
-### Stage 2 — Fibonacci and Struct Programs
+**Kanishka Khandelwal**
+B.Tech CSE Student | JECRC University
 
-Added two Python programs:
+I'm currently learning programming fundamentals and exploring different areas of Computer Science through hands-on practice.
 
-- `fibonacci.py` — Generates the Fibonacci series.
-- `struct.py` — Demonstrates the use of a struct-like data structure using Python `dataclass`.
+This repository documents my progress as I learn Python one concept and one program at a time.
 
-### Stage 3 — README Audit Using LLM
+---
 
-The repository README was audited using an **LLM**. The LLM was asked to review the repository, identify inaccurate or unsupported claims, and improve the README accordingly.
+## 📚 What This Repository Covers
 
-The audit included checking:
+The programs in this repository focus on building a strong understanding of Python fundamentals, including:
 
-- Repository files
-- Program descriptions
-- Git development history
-- Python version requirements
-- Dependencies and external libraries
-- Accuracy and completeness of the documentation
-
-## Files
-
-| File | Description |
-|---|---|
-| `factorial.py` | Calculates the factorial of a number. |
-| `fibonacci.py` | Generates a Fibonacci series. |
-| `struct.py` | Demonstrates a struct-like data structure using `dataclass`. |
-| `README.md` | Documentation and audit of the repository. |
-
-## How to Run
-
-Make sure **Python 3.7 or later** is installed.
-
-Run the programs using:
-
-```bash
-python factorial.py
-python fibonacci.py
-python struct.py
+* 🐍 Python syntax and fundamentals
+* 📦
